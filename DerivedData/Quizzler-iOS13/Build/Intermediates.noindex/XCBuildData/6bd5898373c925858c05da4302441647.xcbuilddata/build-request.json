@@ -1,0 +1,63 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "a11cbfb12b664fbc1d3bd48bb5146e28295d48ce0ffbb17a6c8a4fe42e0ef4d7"
+    }
+  ],
+  "containerPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Products",
+      "derivedDataPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "71C5DCC6-45C4-47C1-8D64-E681252E5732",
+          "TARGET_DEVICE_MODEL" : "iPhone15,4",
+          "TARGET_DEVICE_OS_VERSION" : "17.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

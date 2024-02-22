@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "a11cbfb12b664fbc1d3bd48bb5146e28295d48ce0ffbb17a6c8a4fe42e0ef4d7"
+    }
+  ],
+  "containerPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Products",
+      "pchPath" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBackgroundBubbles</string>
+			<key>relativePath</key>
+			<string>./Background-Bubbles.imageset</string>
+			<key>swiftSymbol</key>
+			<string>backgroundBubbles</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameRectangle</string>
+			<key>relativePath</key>
+			<string>./Rectangle.imageset</string>
+			<key>swiftSymbol</key>
+			<string>rectangle</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

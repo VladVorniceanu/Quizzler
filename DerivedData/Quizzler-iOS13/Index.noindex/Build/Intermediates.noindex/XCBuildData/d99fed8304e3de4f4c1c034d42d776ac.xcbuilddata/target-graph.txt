@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'Quizzler-iOS13' in project 'Quizzler-iOS13' (no dependencies)
+Target 'Quizzler-iOS13' in project 'Quizzler-iOS13' (no dependencies)

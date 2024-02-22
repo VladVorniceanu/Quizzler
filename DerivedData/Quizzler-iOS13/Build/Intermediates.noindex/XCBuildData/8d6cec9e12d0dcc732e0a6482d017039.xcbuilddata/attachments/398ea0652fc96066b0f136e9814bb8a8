@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Quizzler-iOS13-master.dia",
+    "emit-module-dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Quizzler-iOS13-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Quizzler-iOS13-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Quizzler-iOS13-master.swiftdeps"
+  },
+  "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/AppDelegate.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/Controller/ViewController.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/Model/Question.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Question.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Question.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Question.dia",
+    "index-unit-output-path" : "/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Question.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Question.bc",
+    "object" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Question.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Question.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/Question~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/Model/QuizBrain.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/QuizBrain.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/QuizBrain.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/QuizBrain.dia",
+    "index-unit-output-path" : "/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/QuizBrain.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/QuizBrain.bc",
+    "object" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/QuizBrain.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/QuizBrain.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/QuizBrain~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/SceneDelegate.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Quizzler-LayoutPractice-iOS13/DerivedData/Quizzler-iOS13/Build/Intermediates.noindex/Quizzler-iOS13.build/Debug-iphoneos/Quizzler-iOS13.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  }
+}
